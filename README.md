@@ -3,6 +3,8 @@ GoRadius
 
 GoRadius is a Go Library implementing the RADIUS protocol. It provides functions for Marshalling & Unmarshalling RADIUS packets. The packet processing logic resides with the application using the library.
 
+**NOTE**: This is a Work-In-Progress. A lot of will change in the coming weeks, and I recommend against using this in production code as API might change. Patches are welcome!
+
 Dictionaries
 ------------
 
